@@ -31,7 +31,7 @@
 
 ##  [ 🌎 Connect via the Network ]
 
-🔗 **GitHub:** [krysh420](https://github.com/krysh420)  
+🔗 **GitHub:** [kryzhh](https://github.com/kryzhh)  
 🖥 **LinkedIn:** [Krish Mishra](https://www.linkedin.com/in/krish-mishra-a9410917b/)  
 
 //  [ End Transmission ]  
