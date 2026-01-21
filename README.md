@@ -33,5 +33,6 @@
 
 🔗 **GitHub:** [kryzhh](https://github.com/kryzhh)  
 🖥 **LinkedIn:** [Krish Mishra](https://www.linkedin.com/in/krish-mishra-a9410917b/)  
-
+💻 **Codeforces:** [giornogiobama](https://codeforces.com/profile/giornogiobama)
+🤖 **Leetcode:** [krishm848](https://leetcode.com/u/krishm848/) 
 //  [ End Transmission ]  
