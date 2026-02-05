@@ -20,8 +20,8 @@
 
 🔥 **Cyber Warfare:** Red Team | Blue Team | All the Teams  
 ⚡ **Operating Systems:** Windows | Linux (Arch btw)  
-🔧 **Code Craft:** Python | C++ | Bash | Powershell (Basic) | Tools of the Trade  
-🚀 **Infrastructure:** Containers | VMs | VPN | The Digital Fortress  
+🔧 **Code Craft:** Python | C++ | Bash | Powershell | JavaScript | Tools of the Trade  
+🚀 **Infrastructure:** Containers | Databases | Server Side Applications | VMs | VPN | The Digital Fortress  
 🔍 **OS Internals:** Windows API | Linux Syscalls  
 🕵 **Artifact Analysis:** Digital Forensics | Live Forensics
 
