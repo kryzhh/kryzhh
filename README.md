@@ -41,12 +41,6 @@ either i am doing security stuff or building oddly specific things i need
 
 ---
 
-### stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=kryzhh&show_icons=true&theme=tokyonight)
-
----
-
 ### find me
 
 - github: https://github.com/kryzhh
