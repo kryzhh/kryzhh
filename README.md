@@ -45,6 +45,6 @@ either i am doing security stuff or building oddly specific things i need
 
 - github: https://github.com/kryzhh
 - linkedin: https://www.linkedin.com/in/krish-mishra-a9410917b/
-- twitter: (https://x.com/kryzhh_/
+- twitter: https://x.com/kryzhh_/
 - leetcode: https://leetcode.com/u/krishm848/
 - codeforces: https://codeforces.com/profile/giornogiobama
