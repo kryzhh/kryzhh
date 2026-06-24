@@ -39,8 +39,8 @@ either i am doing security stuff or building oddly specific things i need
 - [**gasoline**](https://github.com/kryzhh/gasoline)  
   inspired by apple continuity — building a system to sync and manage notifications without constantly checking my phone (very early stage)
 
-- [**obsidiangpt**](https://github.com/kryzhh/obsidiangpt)  
-  ask your own notes questions without feeding it to online llms if you have the compute (RAG based project)(active development)
+- [**mockingbird**](https://github.com/kryzhh/obsidiangpt) (will change repo name in the future) 
+  what if you could talk to your second brain? local first AI knowledge retrieval (currently for obsidian vault)
 
 ---
 
