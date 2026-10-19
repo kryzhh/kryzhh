@@ -17,14 +17,14 @@ either i am doing security stuff or building oddly specific things i need
 
 ### some things i've built
 
+- [**sumchat**](https://github.com/kryzhh/sumchat)  
+  was annoyed from reading 100+ official work related messages on discord. it's an AI chat summarizer powered by openrouter. privacy concerns? feel free to host your own model. that's what I did.
+
 - [**serverbot**](https://github.com/kryzhh/server-bot)  
   started as a discord bot for managing a minecraft server, but evolved into a modular system for secure remote access and automation
 
 - [**vpntunnel**](https://github.com/kryzhh/vpntunnel)  
   a custom vpn tunneling setup to route traffic securely through my own network before reaching its destination. also lets you repurpose old systems/mobiles into personal, privacy-focused access points and even run your own apps like a homelab.
-
-- [**aegisnet**](https://github.com/kryzhh/aegisnet)  
-  a network-focused project for monitoring and controlling traffic and system resources (security-oriented)
 
 ---
 
@@ -41,9 +41,6 @@ either i am doing security stuff or building oddly specific things i need
 
 - [**mockingbird**](https://github.com/kryzhh/obsidiangpt) (will change repo name in the future)  
   what if you could talk to your second brain? local first AI knowledge retrieval (currently for obsidian vault)
-
-- [**sumchat**](https://github.com/kryzhh/sumchat)  
-  was annoyed from reading 100+ official work related messages on discord. it's a chat summarizer powered by openrouter. privacy concerns? feel free to host your own model. that's what I did.
 
 ---
 
