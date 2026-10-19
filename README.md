@@ -8,7 +8,6 @@ either i am doing security stuff or building oddly specific things i need
 
 ### what i'm about
 
-- deeply interested in security (especially dfir)
 - i like solving very specific problems by building tools for them
 - interests: systems, networking, cloud, automation, and random ideas
 - if something annoys me enough, i’ll probably build something for it
