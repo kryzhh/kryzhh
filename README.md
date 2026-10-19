@@ -32,7 +32,7 @@ either i am doing security stuff or building oddly specific things i need
 - [**smarrec**](https://github.com/kryzhh/smarrec)  
   building a file carver with ai-assisted analysis and reconstruction, exploring how modern data recovery can be improved (dfir-oriented)
 
-- [**breadjam**](https://breadjam-alpha.vercel.app/) (closed source for now, up for testing. give it a spin your feedback is appreciated :))  
+- **breadjam** (thanks for taking past in the test run, your feedback was noted and will be worked upon :))  
   started as a joke, now turning into a full music jam platform (still very much work in progress)
 
 - [**gasoline**](https://github.com/kryzhh/gasoline)  
