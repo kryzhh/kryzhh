@@ -42,6 +42,9 @@ either i am doing security stuff or building oddly specific things i need
 - [**mockingbird**](https://github.com/kryzhh/obsidiangpt) (will change repo name in the future)  
   what if you could talk to your second brain? local first AI knowledge retrieval (currently for obsidian vault)
 
+- [**sumchat**](https://github.com/kryzhh/sumchat)  
+  was annoyed from reading 100+ official work related messages on discord. it's a chat summarizer powered by openrouter. privacy concerns? feel free to host your own model. that's what I did.
+
 ---
 
 ### find me
