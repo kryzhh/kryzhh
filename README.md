@@ -1,16 +1,13 @@
 ## hey, i'm krish
 
-either i am doing security stuff or building oddly specific things i need
-
-> probably useless for most people, but very useful for me
+*"if something annoys me enough, i’ll probably build something for it"*
 
 ---
 
 ### what i'm about
 
 - i like solving very specific problems by building tools for them
-- interests: systems, networking, cloud, automation, and random ideas
-- if something annoys me enough, i’ll probably build something for it
+- interests: ai, systems, networking, cloud, automation, and random ideas
 
 ---
 
@@ -29,16 +26,13 @@ either i am doing security stuff or building oddly specific things i need
 
 ### currently building
 
-- [**smarrec**](https://github.com/kryzhh/smarrec)  
-  building a file carver with ai-assisted analysis and reconstruction, exploring how modern data recovery can be improved (dfir-oriented)
-
-- **breadjam** (thanks for taking past in the test run, your feedback was noted and will be worked upon :))  
+- **breadjam** (thanks for taking part in the test run, your feedback was noted and will be worked upon :))  
   started as a joke, now turning into a full music jam platform (still very much work in progress)
 
 - [**gasoline**](https://github.com/kryzhh/gasoline)  
   inspired by apple continuity — building a system to sync and manage notifications without constantly checking my phone (very early stage)
 
-- [**mockingbird**](https://github.com/kryzhh/obsidiangpt) (will change repo name in the future)  
+- [**mockingbird**](https://github.com/kryzhh/mockingbird)   
   what if you could talk to your second brain? local first AI knowledge retrieval (currently for obsidian vault)
 
 ---
